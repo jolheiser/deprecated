@@ -1,3 +1,3 @@
 package deprecated
 
-var Deprecated = false
+var Deprecated = true
